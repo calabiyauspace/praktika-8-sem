@@ -14,7 +14,7 @@
 
 ## 1. Инвариативная самостоятельная работа
 
-1. [ИСР.docx]()
+1. [ИСР.docx](https://github.com/calabiyauspace/praktika-8-sem/blob/main/ИСР1.1-1.3%20Соколова%20Анна.docx)
 2. [ИСР.pdf](https://github.com/calabiyauspace/praktika-8-sem/blob/main/ИСР1.1-1.3%20Соколова%20Анна.pdf)
 
 
