@@ -6,7 +6,7 @@
 
 [Задание.docx](https://github.com/calabiyauspace/praktika-8-sem/blob/main/задание_технологическая_соколова_анна.docx)
 
-[Задание.pdf]()
+[Задание.pdf](https://github.com/calabiyauspace/praktika-8-sem/blob/main/задание_технологическая_соколова_анна.pdf)
 
 [Отчет.docx]()
 
