@@ -10,7 +10,7 @@
 
 [Отчет.docx](https://github.com/calabiyauspace/praktika-8-sem/blob/main/отчет_технологическая_соколова_анна.docx)
 
-[Отчет.pdf]()
+[Отчет.pdf](https://github.com/calabiyauspace/praktika-8-sem/blob/main/отчет_технологическая_соколова_анна.pdf)
 
 ## 1. Инвариативная самостоятельная работа
 
