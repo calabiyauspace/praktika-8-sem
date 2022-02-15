@@ -19,5 +19,5 @@
 
 
 ## 2. Вариативная самостоятельная работа
-1. [ВСР.docx]()
+1. [ВСР.docx](https://github.com/calabiyauspace/praktika-8-sem/blob/main/ВСР1.1-1.3%20Соколова%20Анна.docx)
 2. [ВСР.pdf]()
